@@ -1,7 +1,7 @@
 # [ARXIV 2026] Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation
 
 
-### [Project Page](https://zju3dv.github.io/geometry-as-address/) | Arxiv (Coming Soon)
+### [Project Page](https://zju3dv.github.io/geometry-as-address/) | [Arxiv](https://arxiv.org/abs/2609.34722)
 
 > [Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation](https://zju3dv.github.io/geometry-as-address/), \
 > Zesong Yang, Weikai Chen‡, Liyuan Cui, Lutao Jiang, Runze Zhang, Yingda Yin, Xiaoyang Huang, Kai Yan, Keyang Luo, Wangguandong Zheng, Xin Wang, Hujun Bao, Zhaopeng Cui†
@@ -30,10 +30,10 @@ Some codes are modified from [VideoX-Fun](https://github.com/aigc-apps/VideoX-Fu
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{yang2026megas,
+@article{yang2026geometry,
     title={Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation},
     author={Yang, Zesong and Chen, Weikai and Cui, Liyuan and Jiang, Lutao and Zhang, Runze and Yin, Yingda and Huang, Xiaoyang and Yan, Kai and Luo, Keyang and Zheng, Wangguandong and Wang, Xin and Bao, Hujun and Cui, Zhaopeng},
-    booktitle={Arxiv},
+    journal={arXiv preprint arXiv:2609.34722},
     year={2026}
-}     
+}
 ```
