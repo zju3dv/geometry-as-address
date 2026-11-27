@@ -34,6 +34,7 @@ Xin Wang<sup>2</sup>,
 
 ## 📰 News
 
+- **[2026-11-27]** Code will be released on **2026-12-16**. Stay tuned! 🚀
 - **[2026-09-28]** Release project page and arxiv paper. 🌏
 
 ## ✨ Overview
